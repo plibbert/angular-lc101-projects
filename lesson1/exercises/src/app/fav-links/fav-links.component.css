@@ -1,0 +1,12 @@
+.favLinks a {
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px
+}
+.faveLinks h3 {
+    color: darkred;
+    text-align: center;
+    padding-top: 5px;
+    text-decoration: underline;
+}
