@@ -1,0 +1,11 @@
+.chores li { 
+    font-family: "veranda";
+    font-size: 1.25em;
+    color: darkorchid;
+    font-style: italic
+}
+.chores h3 {
+    font-family: "veranda";
+    color: purple;
+    text-decoration: underline
+}
